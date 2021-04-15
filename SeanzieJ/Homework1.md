@@ -4,14 +4,21 @@
 
 * Name of company
 Acorns
+
 * When was the company incorporated?
+2012
 
 * Who are the founders of the company?
+Walter Wemple Cruttenden III and Jeffrey James Cruttenden
 
 * How did the idea for the company (or project) come about?
+The father son duo wanted to introduce micro investing to the masses, and get people 
+interested in saving for their future.
 
 * How is the company funded? How much funding have they received?
-
+Acorns has been funded mostly through venture capitol, approx. $100 million along with 
+celebrity endrsoments and investments such as Jennifer Lopez, Alex Rodriguez, Bono, 
+Ashton Kutcher and Kevin Durant.
 
 ## Business Activities:
 
