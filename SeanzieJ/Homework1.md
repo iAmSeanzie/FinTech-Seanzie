@@ -23,9 +23,22 @@ Ashton Kutcher and Kevin Durant.
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+Many of the younger generations do not have the wealth to invest in the stock market, 
+they're main focus has been to introduce small, easy to stash amounts of money into 
+portfolios that can grow over time
+Our mission is to look after the financial best interests of the up-and-coming, beginning
+with the empowering step of micro-investing.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+The intended customer is a tech savvy customer with an eye for saving for the future,
+but may not have the savings needed to invest heavily in the market. with starting deposits
+of only $1, and rounding up your spare change, it is very easy to get something out there
+with your name on it.
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) 
+Acorns was one of the first companies to ever introduce micro investing to the general 
+public, with rounding up your purchases to the nearest dollar and small increment
+recurring purchases, before you know it you can have a sizeable "oak"
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
