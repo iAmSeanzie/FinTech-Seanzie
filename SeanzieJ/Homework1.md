@@ -96,3 +96,4 @@ T-Mobile Money, you can deposit cash at any T-Mobile store. Secondly, the progra
 transfer the cash directly to you invest account through routing would need to be made.
 
 * Why are these technologies appropriate for your solution?
+The cash routing technologies would need to be sort of real time to be able to invest the cash directly instead of initiating deposit transfers that could take days, losing out on compound interest.
