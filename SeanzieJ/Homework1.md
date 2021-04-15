@@ -42,7 +42,7 @@ robo-advisors to the general public, with rounding up your purchases to the near
 and small increment recurring deposits, before you know it you can have a sizeable "oak."
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+They are definietly using some of Amazon AWS, CloudFront, EC2, and CloudWatch. Along with others I do not know Redis, Apache Spark, Kotlin, Swift and Rails
 
 ## Landscape:
 
