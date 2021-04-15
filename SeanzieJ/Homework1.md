@@ -1,9 +1,9 @@
-# TITLE
+# Acorns
 
 ## Overview and Origin
 
 * Name of company
-
+Acorns
 * When was the company incorporated?
 
 * Who are the founders of the company?
